@@ -1,21 +1,7 @@
 ### Who am I?
 ### Why Biosystems?
+I chose Biosystems Engineering because of my passion for the environment and my desire to make a positive impact on the world we live in. I enjoy all the possibilities for where I can possibly work with a Biosystems degree, and I appreciate that the major as a whole has a very positive and progressive outlook for the future. Biosystems is such a versatile major, and I love that I could work in any setting involving biological applications, environmental applications, systems engineering, or civil engineering. The stability of knowing I will have many options and opportunities for jobs is a great comfort. Even more comforting is the fact that all the applications of my major are jobs I would be happy to work. I appreciate how Biosystems allows me to keep an open mind for my future and any career changes I may decide to make. Talking to students and professors in my major, they talk about their passion for biofuels or plant-based plastics, and their desire to improve our world and keep moving forward. That's the kind of major I have always wanted, one that provides a learning environment where what is stressed the most isn't the starting pay you'll get when you graduate, but the impact you will make and how you can improve the world for yourself, your family, and everyone around you.
 ### Career Goals
 I am interested in opting in to Auburn's advanced master's program for Biosystems Engineering, so that when I graduate in Spring of 2022, I will get to graduate with both a BS and MS from Auburn. I have done undergraduate research for Auburn since my freshman year of college, and discovered that research is a passion of mine. I enjoy constantly learning and testing theories and trying to discover the most efficient way to do things. Beyond Auburn, my dream is to go to grad school for my PhD, preferably at the University of Michigan, my dream graduate school. After that, my career goals are to hopefully work for the government doing research related to sustainability and how to help our country evolve from our current infrastructure, packaging materials, and fuels, to infrastructure, packing materials, and fuels that are beneficial to our environment and prolonged existence.
 
-## Heading 2
 
-
-
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-_italic_
-
-*bold*
