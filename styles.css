@@ -2,6 +2,10 @@
   width: 100%;
 }
 
+#full-name {
+  text-align: center;
+}
+
 .side-bar {
   position: fixed;
   height: 110%;
