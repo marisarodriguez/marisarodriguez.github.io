@@ -6,6 +6,15 @@
   text-align: center;
 }
 
+.top-card > ul {
+  text-align: center;
+}
+
+.top-card > ul > li {
+  display: inline-block;
+  margin-top: 6px;
+}
+
 .side-bar {
   position: fixed;
   height: 110%;
